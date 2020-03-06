@@ -50,3 +50,5 @@ export const defaultSortModel = [
     }
 ];
 
+// https://www.ag-grid.com/javascript-grid-sorting/#multi-column-sorting
+
