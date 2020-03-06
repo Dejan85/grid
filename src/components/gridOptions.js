@@ -52,3 +52,7 @@ export const defaultSortModel = [
 
 // https://www.ag-grid.com/javascript-grid-sorting/#multi-column-sorting
 
+
+https://rateyourmusic.com/list/slamlord/101_hardcore_cover_songs_you_must_hear_before_you_die/
+// stigao sma do 9
+
